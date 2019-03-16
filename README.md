@@ -2,6 +2,10 @@
 This is the auto-grader for the chronology test for professor Silva's history class. This program will find the longest series of events in order by removing whatever event that is necessary. The result Grade will you give you the length of these events, and the correct sequence will display what those events are (only one possibility out of many).
 
 ## Open and Use
+Download the .jar file and double click
+
+or
+
 Download the folder and everything inside it, open folder and keep everything in their relative space, double click on GradeVisualizer.class, this should be fine on Mac OS, will test on windows later. 
 
 ## A UI Demo
