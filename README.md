@@ -1,4 +1,4 @@
-## Chronology-Test-Grader
+# Chronology-Test-Grader
 This is the auto-grader for the chronology test for professor Silva's history class
 
 ![alt text](https://github.com/pumpkinjnn/Chronology-Test-Grader/blob/master/Screen%20Shot%202019-03-16%20at%206.20.13%20AM.png)
@@ -6,12 +6,12 @@ This is the auto-grader for the chronology test for professor Silva's history cl
 
 Although the rough instruction is poseted inside the program, here is a detailed one.
 
-# A user has two ways to use this Grader!
+## A user has two ways to use this Grader!
 
-# 1. The events on the standard answer sheet and quiz sheet are in the same order.
+### 1. The events on the standard answer sheet and quiz sheet are in the same order.
 In this case, simply type the numbers of the events, from top to bottom and seperated by space.
 
-# 2. The events on the standard answer sheet and quiz sheet are not in the same order.
+### 2. The events on the standard answer sheet and quiz sheet are not in the same order.
 In this case, you need to make sure that the same position on the inputs means the same
 event, for example, if you have standard answer sheet(left) and student quiz sheet(right):
 ```
