@@ -14,14 +14,14 @@ In this case, simply type the numbers of the events, from top to bottom and sepe
 # 2. The events on the standard answer sheet and quiz sheet are not in the same order.
 In this case, you need to make sure that the same position of the input means the same
 event, for example, if you have standard answer sheet(left) and student quiz sheet(right):
-
+```
 Num   |     Event                                 Num  |   Event
  1    |    eating                                  2   |   exercising
  2    |    sleeping             -----\\            5   |   doing homework
  3    |    doing homework       -----//            4   |   eating
  4    |    playing game                            1   |   sleeping
  5    |    exercising                              3   |   playing game
- 
+ ```
  What you want to do is to enter students answer according to the sequence of the event on the standard
  answer sheet and its corresponding number in student's quiz sheet. Using the example above,
  first eating correspond to 4 in student's answer, so we put 4 first. Then sleeping is 1, doing homework 
