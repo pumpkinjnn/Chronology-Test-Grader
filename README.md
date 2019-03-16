@@ -12,7 +12,7 @@ Although the rough instruction is poseted inside the program, here is a detailed
 In this case, simply type the numbers of the events, from top to bottom and seperated by space.
 
 # 2. The events on the standard answer sheet and quiz sheet are not in the same order.
-In this case, you need to make sure that the same position of the input means the same
+In this case, you need to make sure that the same position on the inputs means the same
 event, for example, if you have standard answer sheet(left) and student quiz sheet(right):
 ```
 Num   |     Event                                 Num  |   Event
