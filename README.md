@@ -14,14 +14,13 @@ Download the folder and everything inside it, open folder and keep everything in
 
 Although the rough instruction is poseted inside the program, here is a detailed one.
 
-## A user has two ways to use this Grader!
+## A user must use this Grader this way!
 
-### 1. The events on the standard answer sheet and quiz sheet are in the same order.
-In this case, simply type the numbers of the events, from top to bottom and seperated by space.
-
-### 2. The events on the standard answer sheet and quiz sheet are not in the same order.
-In this case, you need to make sure that the same position on the inputs means the same
-event, for example, if you have standard answer sheet(left) and student quiz sheet(right):
+### The events on the standard answer sheet and quiz sheet are not in the same order.
+In this case, you need to make sure
+1). The standard sheet uses the right chronological order.
+2). that the same position on the inputs means the same event, 
+for example, if you have standard answer sheet(left) and student quiz sheet(right):
 ```
 Num   |     Event                                 Num  |   Event
  1    |    eating                                  2   |   exercising
